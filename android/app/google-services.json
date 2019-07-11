@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73199651532",
+    "firebase_url": "https://agripreneur-id.firebaseio.com",
+    "project_id": "agripreneur-id",
+    "storage_bucket": "agripreneur-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73199651532:android:26447837344a5f5d",
+        "android_client_info": {
+          "package_name": "com.cyberspartans.agripreneur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73199651532-c3amka7ug7hdk0962d65kc4bd95h3pca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberspartans.agripreneur",
+            "certificate_hash": "c22cc3a98ab140e5ebce36daf3a90c42cd1a8444"
+          }
+        },
+        {
+          "client_id": "73199651532-ec8fc48fm8akgo3mmqgdubtmme40tdo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXcNgvlT3TWNr9TcyS7qFQ0B3yVpvxek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73199651532-ec8fc48fm8akgo3mmqgdubtmme40tdo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
