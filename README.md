@@ -1,6 +1,6 @@
 # agripreneur
 
-A new Flutter application.
+Kissan is android based application that allows farmers to connect witheach other and also with FMCG companies.The main aim is to eliminate middle-man and toget farmers good commodities values  
 
 ## Getting Started
 
